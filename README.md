@@ -1,6 +1,6 @@
 # Intro mudlle-lsp
 
-This is a language server protocol code for Mudlle which is an in-game development language of MUME (Multi-User Middle Earth) a Tolkien based text game (mume.org).
+This is a language server protocol code for Mudlle which is an in-game development language of MUME (Multi-User Middle Earth) a Tolkien based text game (http://mume.org).
 
 ## Functionality
 
